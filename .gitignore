@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.vitest/
+test-results.xml
+.specdrive/
+specs/_specdrive/
+.pytest_cache/
+.stipulate/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.log
+sbom.json
